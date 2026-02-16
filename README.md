@@ -45,17 +45,6 @@ python -m pip install --upgrade pip
 pip install -r requirements.txt
 
 
-(That’s three backticks on a line by itself.)
-
-That closes the code block.
-
----
-
-### Step 2 — Add the Dataset Section BELOW That
-
-Then paste this:
-
-```markdown
 ## Data Set
 
 ### Source (Name + Link)
